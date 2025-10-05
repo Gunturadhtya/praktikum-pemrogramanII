@@ -23,6 +23,6 @@ public class Kopi {
 	}
 	
 	public double getPajak() {
-		return this.harga * 11/100;
+		return this.harga * 0.11;
 	}
 }
